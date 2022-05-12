@@ -16,4 +16,6 @@ Some useful links
 
 [megaTinyCore(arduino core)](https://github.com/SpenceKonde/megaTinyCore.git)
 
+[TinyCore](https://github.com/xukangmin/TinyCore.git)
+
 [Microchip Studio for AVR](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio)
