@@ -1,0 +1,13 @@
+Ref,Qnty,Value,Cmp name,Footprint,MPN
+"C1, ",1,10u,C,Capacitor_SMD:C_0603_1608Metric,CC0603KRX5R6BB106
+"C2, ",1,100n,C,Capacitor_SMD:C_0603_1608Metric,CC0603KRX7R9BB104
+"D1, ",1,PWR,LED,LED_SMD:LED_0603_1608Metric,19-217/R6C-AL1M2VY/3T 
+"D2, ",1,B5,LED,LED_SMD:LED_0603_1608Metric,19-217/G7C-AN1P2/3T
+"J1, ",1,USB_B_Micro,USB_B_Micro,MUP-U513:MUP-U513,MUP-U513
+"J2, ",1,PWR_CONN,Conn_01x02_Male,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,
+"J3, ",1,UPDI,Conn_02x03_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical,
+"J4, J5, ",2,Conn,Conn_01x10_Male,Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical,
+"R1, R2, ",2,1k,R,Resistor_SMD:R_0603_1608Metric,RC0603FR-071KL
+"R3, ",1,1k,R,Resistor_SMD:R_0402_1005Metric,RC0402JR-071KL
+"SW1, ",1,SW,SW_Push_45deg,Button_Switch_SMD:Button_Switch_SMD:SW_SPST_B3U-1000P,B3U-1000P
+"U1, ",1,ATtinyXXX7,ATtiny1617-M,Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm,ATTINY1617-MN
